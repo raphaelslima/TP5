@@ -43,8 +43,11 @@ public class ArvoreBinariaDePesquisa {
             emOrdemRecursivo(atual.esquerda, escritor);
             escritor.write(atual.palavra +" "+ atual.linhas);
             escritor.newLine();
-            System.out.println(atual.palavra + " " + atual.linhas + atual.bal);
+            atual.calculaBal();
+            atual.verificaBalancemaneto();
+            System.out.println(atual.palavra + " " + atual.linhas + " " + atual.bal);
             emOrdemRecursivo(atual.direita, escritor);
+           
         }
     }
 
