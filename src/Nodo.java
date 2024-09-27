@@ -73,20 +73,20 @@ public class Nodo {
     // Verifica qual rotcao usar para realizar o balancemaneto
     public Nodo verificaBalancemaneto(){
         Nodo atual = this;
-        if(atual.bal >= 2 || atual.bal <= -2){
-            if(atual.bal * atual.direita.bal >= 2){
-                if(atual.bal * atual.direita.bal > 0){
-                    return atual.rotacaoSimplesDireita();
-                } else {
-                    return atual.rotacaoDuplaDireita();
-                }
+        if(atual.bal >= 2){
+            if(atual.direita.bal == 1 || atual.direita.bal == 0){
+                rotacaoSimplesEsquerda();
+            }
+            else if(atual.direita.bal == -1){
+                rotacaoDuplaDireita();
             }
         }
-        else {
-            if(atual.bal * atual.esquerda.bal > 0){
-                return atual.rotacaoSimplesEsquerda();
-            } else {
-                return atual.rotacaoDuplaEsquerda();
+        else if(atual.bal <= -2){
+            if(atual.esquerda.bal == 1){
+                rotacaoDuplaEsquerda();
+            }
+            else if(atual.esquerda.bal == -1 || atual.esquerda.bal == 0){
+                rotacaoSimplesDireita();
             }
         }
         atual.calculaBal();
@@ -97,53 +97,35 @@ public class Nodo {
 
     // ESBOÇO
     public Nodo rotacaoSimplesDireita(){
-        Nodo filhoDireta;
-        Nodo filhoDoFilho = null;
-
-        filhoDireta = this.direita;
-        if(this.direita != null){
-            if (this.direita.esquerda != null) {
-                filhoDoFilho = filhoDireta.esquerda;
-            }
+        Nodo filhoDireita = this.direita;  // nó direita se tornará a nova raiz
+        if(filhoDireita != null){
+            Nodo filhoDoFilho = filhoDireita.direita;  // salva o filho direito de filhoEsquerda
+            filhoDireita.direita = this;  // move o nó atual para a direita
+            this.esquerda = filhoDoFilho;  // atribui o filho do filho à esquerda de 'this'
         }
-        filhoDireta.esquerda = this;
-        this.direita = filhoDoFilho;
-        return filhoDireta;    
+        return filhoDireita;  // retorna a nova raiz da subárvore
     }
+    
 
     // ESBOÇO
     public Nodo rotacaoDuplaDireita(){
-            Nodo nodo = this;
-            Nodo filhoDireita = this.direita;
-            Nodo filhoDoFilho = filhoDireita.esquerda;
-            Nodo noInserido = filhoDoFilho.direita;
-
-            filhoDireita.esquerda = noInserido;
-            filhoDoFilho.direita = filhoDireita;
-            this.direita = filhoDoFilho;
-
-            Nodo novoFilhoDireita = this.direita;
-            nodo.direita= null;
-            novoFilhoDireita.esquerda = nodo;
-
-            return novoFilhoDireita;
+        Nodo filhoDireita = this.direita;
+        rotacaoSimplesDireita();
+        rotacaoSimplesEsquerda();
+        return filhoDireita;
     }
 
     // ESBOÇO
     public Nodo rotacaoSimplesEsquerda(){
-        Nodo filhoEsquerda;
-        Nodo filhoDoFilho = null;
-
-        filhoEsquerda = this.esquerda;
-        if(this.esquerda != null){
-            if (this.esquerda.direita != null) {
-                filhoDoFilho = filhoEsquerda.direita;
-            }
+        Nodo filhoEsquerda = this.esquerda;  // O nó esquerda se tornará a nova raiz
+        if(filhoEsquerda != null){
+            Nodo filhoDoFilho = filhoEsquerda.direita;  // salva o filho direito de filhoEsquerda
+            filhoEsquerda.direita = this;  // move o nó atual para a direita
+            this.esquerda = filhoDoFilho;  // atribui o filho do filho à esquerda de 'this'
         }
-        filhoEsquerda.direita = this;
-        this.esquerda = filhoDoFilho;
-        return filhoEsquerda;  
+        return filhoEsquerda;  // retorna a nova raiz da subárvore
     }
+    
 
     // ESBOÇO
     public Nodo rotacaoDuplaEsquerda(){
