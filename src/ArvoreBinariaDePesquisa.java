@@ -1,8 +1,10 @@
-import java.io.*;
+import java.io.BufferedWriter;
+import java.io.IOException;
 
 public class ArvoreBinariaDePesquisa {
     // Raiz da árvore
     Nodo raiz;
+    Rotacoes rotacoes = new Rotacoes();
 
     // Construtor
     public ArvoreBinariaDePesquisa() {
@@ -18,21 +20,29 @@ public class ArvoreBinariaDePesquisa {
     // Função inserir recursiva
     private Nodo inserirRecursivo(Nodo atual, String palavra, int linha) {
         if (atual == null) {
-            return new Nodo(palavra, linha);
+            return new Nodo(palavra, linha); // Cria um novo nó se o atual for nulo
         }
 
-        if (palavra.compareTo(atual.palavra) < 0) {
-            atual.esquerda = inserirRecursivo(atual.esquerda, palavra, linha);
-        } else if (palavra.compareTo(atual.palavra) > 0) {
-            atual.direita = inserirRecursivo(atual.direita, palavra, linha);
+        // Comparando a palavra que estamos inserindo com a palavra atual do nó
+        if (palavra.compareTo(atual.getPalavra()) < 0) {
+            // Inserção no lado esquerdo se a nova palavra for menor
+            atual.setEsquerda(inserirRecursivo(atual.getEsquerda(), palavra, linha));
+        } else if (palavra.compareTo(atual.getPalavra()) > 0) {
+            // Inserção no lado direito se a nova palavra for maior
+            atual.setDireita(inserirRecursivo(atual.getDireita(), palavra, linha));
         } else {
+            // Se a palavra já existe, apenas adicionamos a linha onde foi encontrada
             atual.adicionarLinha(linha);
         }
 
-        return atual;
+        // atualiza o fator de balaceamento
+        atual.calculaBal();
+
+        // verifica a necessidade de rotação pelo balanceamento
+        return rotacoes.verificaBalancemaneto(atual);
     }
 
-    // Percorre a árvore em ordem alfabética e grava no arquivo
+    // percorre a árvore em ordem alfabética e grava no arquivo
     public void emOrdem(BufferedWriter escritor) throws IOException {
         emOrdemRecursivo(this.raiz, escritor);
     }
@@ -40,18 +50,23 @@ public class ArvoreBinariaDePesquisa {
     // Função recursiva que percorre a árvore e grava as palavras e as linhas no arquivo
     private void emOrdemRecursivo(Nodo atual, BufferedWriter escritor) throws IOException {
         if (atual != null) {
-            emOrdemRecursivo(atual.esquerda, escritor);
-            escritor.write(atual.palavra +" "+ atual.linhas);
+            // inicia pela esquerda
+            emOrdemRecursivo(atual.getEsquerda(), escritor);
+
+            // escreve o nó atual no arquivo
+            escritor.write(atual.getPalavra() + " " + atual.getLinhas());
             escritor.newLine();
-            atual.calculaBal();
-            atual.verificaBalancemaneto();
-            System.out.println(atual.palavra + " " + atual.linhas + " " + atual.bal);
-            emOrdemRecursivo(atual.direita, escritor);
-           
+
+
+            System.out.println(atual.getPalavra() + " " + atual.getLinhas() + " " + atual.getBal());
+
+            // percorre a subárvore da direita
+            emOrdemRecursivo(atual.getDireita(), escritor);
         }
     }
 
+    // Método para limpar a árvore
     public void limpar() {
-        raiz = null; // anula a raiz e o garbage collector cuida do resto
+        raiz = null; // Anula a raiz, e o garbage collector cuida do restante
     }
 }
