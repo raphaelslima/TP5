@@ -50,20 +50,18 @@ public class ArvoreBinariaDePesquisa {
     // Função recursiva que percorre a árvore e grava as palavras e as linhas no arquivo
     private void emOrdemRecursivo(Nodo atual, BufferedWriter escritor) throws IOException {
         if (atual != null) {
-            // inicia pela esquerda
             emOrdemRecursivo(atual.getEsquerda(), escritor);
-
-            // escreve o nó atual no arquivo
-            escritor.write(atual.getPalavra() + " " + atual.getLinhas());
+            
+            // Escreve a palavra e as linhas no arquivo
+            escritor.write(atual.getPalavra() + " " + atual.getLinhas()); // Aqui chamamos getLinhas()
             escritor.newLine();
-
-
+    
             System.out.println(atual.getPalavra() + " " + atual.getLinhas() + " " + atual.getBal());
-
-            // percorre a subárvore da direita
+            
             emOrdemRecursivo(atual.getDireita(), escritor);
         }
     }
+    
 
     // Método para limpar a árvore
     public void limpar() {

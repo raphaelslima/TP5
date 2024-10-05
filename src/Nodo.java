@@ -1,15 +1,15 @@
-import java.util.ArrayList;
+import ListaSE.ListaSE;
 
 public class Nodo {
     private String palavra;
-    ArrayList<Integer> linhas = new ArrayList<>(); // Linhas em que a palavra aparece
+    private ListaSE linhas;
     private Nodo direita;
     private Nodo esquerda;
     private int bal;
 
     public Nodo(String palavra, int linha) {
         this.palavra = palavra;
-        this.linhas.add(linha);
+        this.linhas = new ListaSE();
         this.esquerda = null;
         this.direita = null;
         this.bal = 0;
@@ -35,16 +35,16 @@ public class Nodo {
         return palavra;
     }
 
-    public ArrayList<Integer> getLinhas() {
-        return linhas;
-    }
 
     public int getBal() {
         return bal;
     }
 
     public void adicionarLinha(int linha){
-        this.linhas.add(linha);
+        linhas.inserirNoInicio(linha);
+    }
+    public ListaSE getLinhas() {
+        return linhas; 
     }
 
     // Cálculo de altura da árvore
