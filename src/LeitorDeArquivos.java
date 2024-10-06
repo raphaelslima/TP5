@@ -21,7 +21,7 @@ public class LeitorDeArquivos {
                 System.out.println("=========================================\n");
                 System.out.println("Arquivo " + file.getName() + "\n");
 
-                File arquivoResultado = new File("resultado_" + file.getName() + ".txt");
+                File arquivoResultado = new File("resultado_" + file.getName());
 
                 processarArquivo(file, arquivoResultado);
 
@@ -46,7 +46,6 @@ public class LeitorDeArquivos {
 
             while ((linha = leitor.readLine()) != null) {
                 String[] palavras = formatarLinha(linha); 
-
                 for (String palavra : palavras) {
                     if (palavra.length() >= 3 && palavra.length() <= 20) { 
                         arvore.inserir(palavra, numeroLinha);

@@ -1,0 +1,135 @@
+adora [50] Bal: 0
+adorada [51, 25] Bal: 0
+amada [55, 53, 42, 29, 27, 16] Bal: -1
+america [34] Bal: 0
+amor [43, 18] Bal: 0
+amores [40] Bal: 0
+belo [23] Bal: 1
+berco [32] Bal: 0
+bosques [39] Bal: 0
+braco [12] Bal: -1
+brado [7] Bal: 1
+brasil [56, 52, 43, 34, 30, 26, 17] Bal: 0
+brasileiro [1] Bal: 0
+brilhou [9] Bal: 0
+campos [38] Bal: 0
+ceu [33, 19, 9] Bal: 0
+clava [48] Bal: 0
+colosso [23] Bal: -1
+com [12] Bal: 0
+conquistar [12] Bal: 1
+conseguimos [12] Bal: 1
+cruzeiro [20] Bal: 0
+deitado [32] Bal: 0
+desafia [14] Bal: 0
+desce [18] Bal: 0
+dessa [11] Bal: 0
+desta [45] Bal: 0
+deste [54, 28] Bal: 0
+diga [45] Bal: 0
+dos [54, 28] Bal: 0
+duque [4] Bal: 1
+entre [52, 26] Bal: 0
+ergues [48] Bal: 0
+espelha [24] Bal: -1
+esperanca [18] Bal: -1
+esplendido [32] Bal: 0
+essa [24] Bal: 0
+estrada [4] Bal: 0
+estrelado [44] Bal: 0
+eternamente [32] Bal: 0
+eterno [43] Bal: 0
+filho [49] Bal: 0
+filhos [54, 28] Bal: 0
+flamula [45] Bal: 0
+florao [34] Bal: 0
+flores [38] Bal: 0
+foge [49] Bal: 0
+formoso [19] Bal: -1
+forte [48, 23, 12] Bal: 0
+francisco [3] Bal: -1
+fulgidos [8] Bal: 0
+fulguras [34] Bal: 0
+futuro [46, 24] Bal: 0
+garrida [37] Bal: 0
+gentil [54, 28] Bal: 0
+gigante [22] Bal: 0
+gloria [46] Bal: 0
+grandeza [24] Bal: 0
+heroico [7] Bal: -1
+hino [1] Bal: -1
+idolatrada [42, 16] Bal: 0
+igualdade [11] Bal: 1
+iluminado [35] Bal: 0
+imagem [20] Bal: 0
+impavido [23] Bal: 0
+instante [9] Bal: -1
+intenso [17] Bal: 0
+ipiranga [6] Bal: 0
+joaquim [4] Bal: 0
+justica [48] Bal: 0
+labaro [44] Bal: 0
+letra [4] Bal: -1
+liberdade [13, 8] Bal: 0
+limpido [19] Bal: 0
+luta [49] Bal: 0
+luz [33] Bal: 0
+mae [54, 28] Bal: -1
+mais [40, 39, 38, 37] Bal: 0
+manuel [3] Bal: -1
+mar [33] Bal: 0
+margens [6] Bal: 1
+mas [48] Bal: 0
+mil [52, 26] Bal: 0
+morte [50, 14] Bal: -1
+mundo [35] Bal: 0
+musica [3] Bal: 0
+nacional [1] Bal: 0
+nao [49] Bal: 0
+natureza [22] Bal: 0
+nem [50] Bal: 0
+nesse [9] Bal: -1
+nossa [40] Bal: 0
+nosso [14] Bal: -1
+nossos [39] Bal: 0
+novo [35] Bal: 0
+osorio [4] Bal: -1
+ostentas [44] Bal: 0
+outras [52, 26] Bal: 0
+ouviram [6] Bal: 0
+passado [46] Bal: 0
+patria [55, 53, 42, 29, 27, 16, 9] Bal: 0
+paz [46] Bal: 0
+peito [14] Bal: -1
+pela [22] Bal: 0
+penhor [11] Bal: 0
+placidas [6] Bal: 0
+povo [7] Bal: 0
+profundo [33] Bal: 0
+propria [50, 22, 14] Bal: 1
+que [49, 44, 37] Bal: 0
+quem [50] Bal: 0
+raio [17] Bal: -1
+raios [8] Bal: 0
+resplandece [20] Bal: 0
+retumbante [7] Bal: -1
+risonho [19] Bal: 0
+risonhoslindos [38] Bal: 0
+salve [42, 42, 16, 16] Bal: 0
+seio [40, 13] Bal: 0
+seja [43] Bal: 0
+silva [3] Bal: 0
+simbolo [43] Bal: 0
+sol [35, 8] Bal: 1
+solo [54, 28] Bal: 0
+som [33] Bal: 0
+sonho [17] Bal: 1
+tem [39, 38] Bal: 0
+teme [50] Bal: 0
+terra [51, 37, 25, 18] Bal: -1
+teu [49, 40, 24, 19, 13] Bal: 0
+teus [38] Bal: 0
+veras [49] Bal: 0
+verdelouro [45] Bal: 0
+vida [40, 39] Bal: 0
+vivido [17] Bal: 0

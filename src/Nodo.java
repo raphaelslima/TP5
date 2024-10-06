@@ -41,9 +41,8 @@ public class Nodo {
     }
 
     public void adicionarLinha(int linha) {
-        if (!linhas.contemElemento(linha)) {
-            linhas.inserirNoInicio(linha);
-        }
+        linhas.inserirNoInicio(linha);
+
     }
 
     public ListaSE getLinhas() {

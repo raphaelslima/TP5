@@ -1,0 +1,461 @@
+acabar [145] Bal: 0
+acabo [173] Bal: 0
+acabou [79] Bal: 0
+aceitou [45] Bal: 0
+acertou [187] Bal: 0
+achar [32] Bal: 0
+acontece [142] Bal: 0
+acreditava [219] Bal: 0
+agora [92] Bal: -1
+ainda [11] Bal: 1
+ajudar [225, 68] Bal: 0
+ali [194, 18] Bal: 1
+alimentar [66] Bal: 0
+alta [219, 108] Bal: 0
+altar [16] Bal: 1
+amanha [169] Bal: 0
+amar [104] Bal: 0
+amigos [81] Bal: -1
+amor [175] Bal: 0
+ano [51] Bal: 0
+antes [122] Bal: 0
+aos [27, 26] Bal: 0
+apareceu [143] Bal: 0
+apertar [158] Bal: 0
+aplaudir [192] Bal: 0
+aprendeu [13] Bal: 1
+aprendiz [52] Bal: 0
+aquela [175] Bal: 0
+aqui [199, 197, 43] Bal: -1
+aquilo [18] Bal: -1
+arma [204, 149] Bal: 0
+armar [138] Bal: 0
+armas [172] Bal: 0
+arrependeu [214, 98] Bal: 1
+asa [81] Bal: 1
+ascendente [120] Bal: 0
+assistir [184] Bal: 0
+ate [197, 65, 58, 13] Bal: 1
+atirar [148] Bal: 0
+atirava [186] Bal: 1
+atiro [207] Bal: 0
+atras [117] Bal: 0
+aumentou [28] Bal: 0
+bagulho [77] Bal: 1
+banca [112] Bal: 0
+bandeirinhas [191] Bal: 0
+bandido [213, 92, 10] Bal: -1
+bastardo [58] Bal: 0
+bebedeira [134] Bal: 0
+bestificado [47] Bal: 0
+bisavo [58] Bal: 0
+boiadeiro [37, 36] Bal: 0
+bolivia [139, 60] Bal: 0
+bom [77] Bal: 1
+bomba [112] Bal: 0
+boto [112] Bal: 0
+boyzinhos [84] Bal: 1
+brasilia [223, 40] Bal: 0
+brigar [150] Bal: 0
+brincar [26] Bal: 0
+brinque [120] Bal: 0
+burgesia [219] Bal: 0
+caboclo [1] Bal: -1
+cafezinho [35] Bal: 0
+caixinha [16] Bal: 0
+cameras [194] Bal: 0
+cansado [32] Bal: 0
+cao [129] Bal: 0
+capitao [95] Bal: 0
+carpinteiro [103, 52] Bal: 1
+casa [162, 157, 119] Bal: 0
+casar [160, 102] Bal: 1
+casou [164] Bal: 0
+catorze [170] Bal: 0
+causa [31] Bal: 0
+cegou [201] Bal: 0
+ceilandia [169] Bal: 0
+cem [53] Bal: -1
+central [46] Bal: 0
+cercania [12] Bal: -1
+certo [131] Bal: 0
+chamou [168] Bal: 0
+chegando [162, 35] Bal: -1
+chorou [162] Bal: 0
+cidade [219, 84, 75, 55, 50, 47, 25] Bal: 0
+cinco [213] Bal: 0
+circo [199] Bal: 0
+classe [108, 31] Bal: 0
+coisa [206] Bal: 0
+coisas [61, 21] Bal: 0
+colegio [113] Bal: 0
+colocavam [16] Bal: 0
+com [224, 223, 215, 212, 173, 164, 145, 137, 122, 120, 117, 108, 105, 79, 47, 36, 13, 11] Bal: 1
+comecar [73, 63] Bal: 0
+comecasse [150] Bal: 0
+comeco [51] Bal: 0
+comecou [188, 158, 85] Bal: 0
+comia [25] Bal: 0
+como [129, 71, 30] Bal: 0
+comprou [33] Bal: 0
+conheceu [97] Bal: 0
+conhecia [57] Bal: 1
+conseguiu [222] Bal: 0
+consequencias [129] Bal: 0
+contrabando [139] Bal: 0
+conversa [70] Bal: -1
+cor [31] Bal: 1
+coracao [128, 100] Bal: 0
+corpo [89] Bal: 0
+cortar [52] Bal: 1
+costas [207, 186] Bal: 0
+crente [155] Bal: 0
+crianca [196, 113, 10] Bal: -1
+cristo [217, 212, 187, 177, 167, 157, 148, 144, 140, 131, 100, 92, 78, 65, 5] Bal: -1
+crucificado [73] Bal: 0
+dali [79] Bal: 0
+danca [198] Bal: 0
+dancar [153] Bal: -1
+dancou [87] Bal: 0
+dava [66] Bal: 0
+decidiu [198, 149, 145, 71] Bal: 0
+declarava [217] Bal: 0
+deixou [7] Bal: -1
+dele [100] Bal: 1
+demora [183] Bal: 0
+dentro [167] Bal: 0
+depois [214, 149] Bal: -1
+descobriu [135] Bal: 0
+descriminacao [31] Bal: -1
+destemido [93] Bal: 0
+desvirginava [154] Bal: 0
+deu [213, 204, 8] Bal: -1
+deus [50] Bal: 0
+dez [116] Bal: 0
+dia [108] Bal: 0
+diabo [223] Bal: 0
+diante [28] Bal: 0
+diferente [17] Bal: 0
+dinheiro [138, 108, 66, 56, 22, 15] Bal: 0
+direto [33] Bal: 0
+disse [123] Bal: 0
+distrito [93] Bal: 1
+diz [110] Bal: 0
+dizendo [180] Bal: 0
+dizia [155, 102, 68, 62, 40] Bal: -1
+diziam [6] Bal: -1
+dos [144, 84] Bal: 0
+doze [26] Bal: 0
+duas [182, 169] Bal: 0
+duelo [179, 168] Bal: 0
+ela [203, 100] Bal: 0
+elaborou [72] Bal: 0
+ele [224, 220, 202, 168, 165, 163, 162, 145, 133, 109, 103, 102, 98, 88, 87, 71, 70, 66, 63, 62, 47, 40, 21, 20, 13, 6] Bal: -1
+embebedou [134] Bal: 0
+embora [159] Bal: 0
+encontrou [36] Bal: 0
+entao [202, 182, 168, 162] Bal: 0
+entar [198] Bal: 0
+entendia [30] Bal: -1
+entrar [128] Bal: 0
+entrou [46] Bal: 0
+era [224, 218, 196, 167, 155, 132, 99, 92, 62, 26, 18, 17, 12, 6] Bal: 0
+escola [13] Bal: 0
+escolha [23] Bal: 0
+escolher [172] Bal: 0
+escolheu [23] Bal: 1
+escorpiao [120] Bal: 0
+espera [110] Bal: 0
+essa [225] Bal: 0
+essas [128] Bal: 0
+esta [160] Bal: 0
+estava [131] Bal: 0
+estou [199, 40] Bal: 0
+estrelas [116] Bal: 0
+estupro [89] Bal: 0
+faco [114] Bal: 0
+falar [224, 36] Bal: 1
+falou [137] Bal: 0
+falsa [175] Bal: 0
+faroeste [1] Bal: -1
+faz [225, 109] Bal: 0
+fazenda [7] Bal: -1
+fazer [177] Bal: 0
+federal [93] Bal: 0
+feira [55] Bal: 0
+festa [82] Bal: 0
+fez [165, 153, 81] Bal: 0
+fica [117] Bal: 0
+fico [43] Bal: 0
+ficou [144, 78, 47, 32] Bal: 0
+filha [208, 42] Bal: 1
+filho [165, 105] Bal: 0
+filmava [194] Bal: 0
+foi [184, 163, 133, 97, 88, 73, 55, 38, 36, 35, 33, 27] Bal: 0
+frente [170] Bal: 0
+frequentava [81] Bal: 0
+funcionava [30] Bal: 0
+futuro [132] Bal: 0
+ganhava [53] Bal: 0
+garganta [190] Bal: 0
+gastar [56] Bal: 1
+general [116, 95] Bal: 0
+gente [225, 194, 160, 57] Bal: 0
+historia [219] Bal: 0
+homem [206, 186] Bal: 0
+hora [180] Bal: 0
+horas [182, 169, 67] Bal: 0
+igreja [15] Bal: -1
+incerto [132] Bal: 0
+indecorosa [109] Bal: 0
+indo [40] Bal: -1
+inferno [163, 88] Bal: 0
+influencia [84] Bal: 0
+inocentes [154] Bal: 0
+interessante [57] Bal: 0
+irmao [127, 126, 124] Bal: 0
+isso [114] Bal: 0
+jeremias [206, 168, 164, 152, 150, 142] Bal: 0
+jesus [8] Bal: 0
+joao [222, 217, 215, 191, 145, 110, 78, 45, 38, 5] Bal: 0
+jornal [112] Bal: 1
+junto [215] Bal: 0
+juntou [22] Bal: 0
+jurei [175] Bal: 0
+legiao [3] Bal: -1
+lembrou [196] Bal: 0
+lhe [204, 38, 8] Bal: 0
+libertar [82] Bal: 0
+linda [99, 50] Bal: 1
+local [180] Bal: 0
+logo [75, 75] Bal: 1
+lote [170] Bal: 0
+lucia [214, 202, 174, 164, 159, 104, 99] Bal: 0
+lugar [135, 43, 41, 18] Bal: 0
+luzes [48] Bal: 1
+maconheiro [152] Bal: 0
+madeira [52] Bal: 0
+mais [72, 70, 11] Bal: 0
+maluco [75] Bal: 0
+mandado [27] Bal: 0
+mao [117, 108] Bal: 0
+mar [20] Bal: -1
+marasmo [7] Bal: 1
+maria [214, 202, 174, 164, 159, 104, 99] Bal: 0
+mas [155, 147, 142, 122, 83, 70, 66, 50, 38] Bal: 0
+mato [174] Bal: 0
+medico [26] Bal: -1
+medo [94, 5] Bal: 0
+meio [134] Bal: 0
+melhor [119, 41] Bal: 0
+menina [175, 99, 97] Bal: 0
+menininhas [25] Bal: 0
+mes [53] Bal: 0
+mesa [117] Bal: 0
+mesmo [17, 17] Bal: 1
+meu [209, 175, 127, 126, 124, 50, 43] Bal: 0
+mil [53] Bal: 0
+minha [119, 42] Bal: 1
+ministro [68] Bal: 0
+mocinhas [154] Bal: 0
+morava [12] Bal: -1
+morrer [218] Bal: 0
+morreu [215, 11] Bal: -1
+morte [65] Bal: 0
+muita [57] Bal: 0
+muitas [61] Bal: 0
+muito [157] Bal: 0
+mundo [153] Bal: 0
+nao [222, 219, 207, 207, 206, 177, 157, 155, 133, 131, 116, 114, 114, 112, 94, 70, 66, 41, 30, 18, 5] Bal: 0
+naquela [198] Bal: 0
+natal [48] Bal: 0
+negocio [63] Bal: -1
+nela [165] Bal: 0
+nem [113] Bal: -1
+nenhum [94] Bal: 0
+nesse [41] Bal: 0
+neto [58] Bal: 0
+nisso [201] Bal: 0
+nome [62] Bal: 1
+norte [81] Bal: 0
+noticia [179] Bal: 0
+noticiario [67] Bal: 0
+novidade [76] Bal: 0
+novo [51] Bal: 1
+num [46] Bal: 0
+nunca [120] Bal: 0
+odio [167, 122, 28, 8] Bal: 0
+olha [208] Bal: 0
+olhada [209] Bal: 0
+olhar [122] Bal: 0
+olhos [201] Bal: 0
+olhou [193, 191] Bal: 0
+onde [28, 12] Bal: 0
+onibus [46] Bal: 0
+organizou [153] Bal: 0
+outro [135] Bal: 0
+ouvia [67] Bal: -1
+pablo [204, 147, 139, 137, 71, 62] Bal: 0
+pai [11] Bal: 0
+pais [41] Bal: 0
+palavras [128] Bal: 0
+para [22, 20] Bal: 0
+parceiro [137] Bal: 0
+passa [107] Bal: 0
+passagem [37, 33] Bal: 0
+pecados [98] Bal: 0
+pegar [90] Bal: 0
+peixe [120] Bal: 0
+pela [163, 88] Bal: -1
+pelas [207, 186] Bal: 0
+pensava [10] Bal: 0
+perdao [210] Bal: 0
+perder [38] Bal: 0
+perdeu [127, 126, 124, 6] Bal: -1
+peruano [60] Bal: -1
+planaltina [140] Bal: 0
+planalto [46] Bal: 0
+plano [72] Bal: 0
+planos [144] Bal: 0
+plantacao [73] Bal: 1
+playboy [95] Bal: 0
+pode [172] Bal: 0
+poder [22] Bal: 0
+policia [94] Bal: 0
+por [143, 53, 31] Bal: 0
+porco [173] Bal: 0
+porque [218] Bal: 0
+porta [108] Bal: 0
+povo [217, 192, 183] Bal: 0
+pra [225, 223, 208, 184, 175, 170, 168, 163, 157, 104, 100, 88, 82, 82, 66, 55, 40, 15, 15, 8, 7] Bal: 0
+pras [194] Bal: 0
+precisando [42] Bal: 1
+presidente [224] Bal: 0
+primeira [88] Bal: 0
+primeiro [87] Bal: -1
+primo [204] Bal: 0
+pro [193, 167, 27] Bal: 0
+professor [26, 13] Bal: 0
+prometeu [100] Bal: 0
+proposta [109, 45] Bal: 0
+propria [23] Bal: 1
+protejo [116] Bal: 1
+protetor [215] Bal: 0
+puta [208] Bal: 0
+quando [223, 196, 178, 97, 11, 10, 6] Bal: 0
+que [225, 222, 220, 217, 206, 204, 197, 194, 186, 179, 177, 175, 173, 170, 155, 150, 145, 142, 138, 137, 135, 131, 117, 110, 102, 71, 68, 68, 63, 60, 50, 21, 18, 17, 16, 8, 6] Bal: 0
+quem [36] Bal: 0
+queria [224, 222, 138, 137, 102, 70, 20] Bal: -1
+quero [105] Bal: 0
+quinze [27] Bal: 1
+rapaz [56] Bal: 1
+razao [180] Bal: 0
+reconheceu [202] Bal: 0
+reformatorio [27] Bal: -1
+renome [143] Bal: 0
+repente [83] Bal: 0
+reporter [178] Bal: 0
+resposta [110, 110, 32] Bal: 0
+revendia [140] Bal: 0
+rezar [155] Bal: 0
+rico [78] Bal: -1
+rock [82] Bal: -1
+roconha [153] Bal: 0
+rodoviaria [48] Bal: 0
+roubar [85, 15] Bal: 0
+roubo [87] Bal: 0
+sabado [182] Bal: 0
+sabendo [144] Bal: 0
+sabia [218, 177, 155, 148] Bal: 0
+saindo [48] Bal: 0
+sair [122, 119, 20] Bal: 0
+salvador [33] Bal: -1
+salvar [38] Bal: 0
+sangue [209, 190, 8] Bal: 0
+santo [218, 217, 212, 187, 177, 167, 157, 148, 144, 140, 131, 100, 92, 78, 72, 65, 5] Bal: 0
+saudade [158] Bal: 0
+segunda [163] Bal: 0
+sem [208, 183, 152, 73] Bal: -1
+sempre [104, 68] Bal: 0
+senhor [119, 108] Bal: 0
+sentia [18, 17] Bal: 0
+sentindo [190] Bal: 0
+sentir [210, 8] Bal: 0
+ser [103, 73, 10] Bal: 0
+sete [67] Bal: 0
+seu [215, 204, 173, 135, 132, 89, 72, 68, 62, 58, 56, 28, 18, 8] Bal: 1
+seus [201, 98] Bal: 0
+sexta [55] Bal: 0
+sob [84] Bal: 1
+sofrer [227, 129] Bal: 0
+sol [201] Bal: 0
+soldado [11] Bal: -1
+solidao [23] Bal: 0
+sorrir [188] Bal: 0
+sorveteiro [193] Bal: 1
+sou [206] Bal: 0
+souberam [76] Bal: 0
+sua [127, 126, 124, 45, 31, 31] Bal: -1
+suas [172] Bal: 0
+taguatinga [53] Bal: 0
+tal [142, 5] Bal: 0
+tambem [174, 138] Bal: 0
+tanto [28, 26] Bal: 0
+televisao [178, 21] Bal: -1
+tem [77] Bal: 0
+temido [93] Bal: 0
+tempo [160, 107] Bal: 0
+tentar [32] Bal: 0
+ter [223, 105] Bal: 0
+terror [28, 12] Bal: 0
+teu [210] Bal: 0
+tinha [138, 135, 94, 37, 5] Bal: -1
+tiro [11] Bal: 0
+tiros [213] Bal: 1
+toda [225] Bal: 0
+todas [25] Bal: 0
+todo [183, 153, 56, 7] Bal: 0
+todos [98, 79, 6] Bal: 0
+tomar [35] Bal: 1
+trabalhador [56] Bal: 0
+trabalhando [135] Bal: 0
+trabalhar [133, 51] Bal: 0
+trabalhava [65] Bal: 1
+traficante [143, 95] Bal: 0
+traficantes [79] Bal: 0
+traidor [213, 173] Bal: 0
+tras [7] Bal: 0
+trazia [203, 139, 61] Bal: 0
+trouxe [147] Bal: 1
+tudo [197, 194] Bal: 0
+uma [209, 196, 147, 110, 110, 109, 99, 97, 72, 37, 33] Bal: 0
+urbana [3] Bal: 0
+usar [149] Bal: 0
+vai [43] Bal: 1
+vao [128, 90] Bal: 0
+veio [223] Bal: 0
+velhinhas [16] Bal: 0
+velho [123] Bal: 0
+vem [210, 108] Bal: 0
+ver [159, 90, 20] Bal: 1
+vergonha [208, 152] Bal: 0
+vez [198, 163, 88, 72] Bal: 0
+via [21] Bal: 0
+viacrucis [199] Bal: 0
+viagem [38] Bal: 0
+viajar [22] Bal: -1
+vida [127, 126, 124, 30] Bal: 0
+violencia [89] Bal: 1
+viram [220] Bal: 0
+virar [71] Bal: 0
+virou [199] Bal: 0
+visitar [42] Bal: -1
+viu [178, 48] Bal: 1
+viveu [197] Bal: 0
+vivia [60] Bal: 0
+voce [206, 173, 172, 127, 126, 124, 105, 43] Bal: 0
+voces [90, 90] Bal: 0
+voltou [103] Bal: 0
+vou [170, 159, 159, 129, 104, 90] Bal: 0
+winchester [212, 203, 147] Bal: 0
+zona [55] Bal: 0

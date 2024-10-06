@@ -70,7 +70,7 @@ public class ArvoreBinariaDePesquisa {
             emOrdemRecursivo(atual.getEsquerda(), escritor);
             
 
-            escritor.write(atual.getPalavra() + " " + atual.getLinhas());
+            escritor.write(atual.getPalavra() + " [" + atual.getLinhas().toString() + "] Bal: "+atual.getBal());
             escritor.newLine();
 
             atual.exibirInformacoes(); 
