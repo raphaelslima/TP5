@@ -1,135 +1,135 @@
-adora 
-adorada 51
-amada 55 53 42 29 27
-america 
-amor 43
-amores 
-belo 
-berco 
-bosques 
-braco 
-brado 
-brasil 56 52 43 34 30 26
-brasileiro 
-brilhou 
-campos 
-ceu 33 19
-clava 
-colosso 
-com 
-conquistar 
-conseguimos 
-cruzeiro 
-deitado 
-desafia 
-desce 
-dessa 
-desta 
-deste 54
-diga 
-dos 54
-duque 
-entre 52
-ergues 
-espelha 
-esperanca 
-esplendido 
-essa 
-estrada 
-estrelado 
-eternamente 
-eterno 
-filho 
-filhos 54
-flamula 
-florao 
-flores 
-foge 
-formoso 
-forte 48 23
-francisco 
-fulgidos 
-fulguras 
-futuro 46
-garrida 
-gentil 54
-gigante 
-gloria 
-grandeza 
-heroico 
-hino 
-idolatrada 42
-igualdade 
-iluminado 
-imagem 
-impavido 
-instante 
-intenso 
-ipiranga 
-joaquim 
-justica 
-labaro 
-letra 
-liberdade 13
-limpido 
-luta 
-luz 
-mae 54
-mais 40 39 38
-manuel 
-mar 
-margens 
-mas 
-mil 52
-morte 50
-mundo 
-musica 
-nacional 
-nao 
-natureza 
-nem 
-nesse 
-nossa 
-nosso 
-nossos 
-novo 
-osorio 
-ostentas 
-outras 52
-ouviram 
-passado 
-patria 55 53 42 29 27 16
-paz 
-peito 
-pela 
-penhor 
-placidas 
-povo 
-profundo 
-propria 50 22
-que 49 44
-quem 
-raio 
-raios 
-resplandece 
-retumbante 
-risonho 
-risonhoslindos 
-salve 42 42 16
-seio 40
-seja 
-silva 
-simbolo 
-sol 35
-solo 54
-som 
-sonho 
-tem 39
-teme 
-terra 51 37 25
-teu 49 40 24 19
-teus 
-veras 
-verdelouro 
-vida 40
-vivido 
+adora ListaSE.ListaSE@7cc355be
+adorada ListaSE.ListaSE@b1bc7ed
+amada ListaSE.ListaSE@7cd84586
+america ListaSE.ListaSE@30dae81
+amor ListaSE.ListaSE@1b2c6ec2
+amores ListaSE.ListaSE@4edde6e5
+belo ListaSE.ListaSE@70177ecd
+berco ListaSE.ListaSE@1e80bfe8
+bosques ListaSE.ListaSE@66a29884
+braco ListaSE.ListaSE@4769b07b
+brado ListaSE.ListaSE@cc34f4d
+brasil ListaSE.ListaSE@17a7cec2
+brasileiro ListaSE.ListaSE@65b3120a
+brilhou ListaSE.ListaSE@6f539caf
+campos ListaSE.ListaSE@79fc0f2f
+ceu ListaSE.ListaSE@50040f0c
+clava ListaSE.ListaSE@2dda6444
+colosso ListaSE.ListaSE@5e9f23b4
+com ListaSE.ListaSE@4783da3f
+conquistar ListaSE.ListaSE@378fd1ac
+conseguimos ListaSE.ListaSE@49097b5d
+cruzeiro ListaSE.ListaSE@6e2c634b
+deitado ListaSE.ListaSE@37a71e93
+desafia ListaSE.ListaSE@7e6cbb7a
+desce ListaSE.ListaSE@7c3df479
+dessa ListaSE.ListaSE@7106e68e
+desta ListaSE.ListaSE@7eda2dbb
+deste ListaSE.ListaSE@6576fe71
+diga ListaSE.ListaSE@76fb509a
+dos ListaSE.ListaSE@300ffa5d
+duque ListaSE.ListaSE@1f17ae12
+entre ListaSE.ListaSE@4d405ef7
+ergues ListaSE.ListaSE@6193b845
+espelha ListaSE.ListaSE@2e817b38
+esperanca ListaSE.ListaSE@c4437c4
+esplendido ListaSE.ListaSE@433c675d
+essa ListaSE.ListaSE@3f91beef
+estrada ListaSE.ListaSE@1a6c5a9e
+estrelado ListaSE.ListaSE@37bba400
+eternamente ListaSE.ListaSE@179d3b25
+eterno ListaSE.ListaSE@254989ff
+filho ListaSE.ListaSE@5d099f62
+filhos ListaSE.ListaSE@37f8bb67
+flamula ListaSE.ListaSE@49c2faae
+florao ListaSE.ListaSE@20ad9418
+flores ListaSE.ListaSE@31cefde0
+foge ListaSE.ListaSE@439f5b3d
+formoso ListaSE.ListaSE@1d56ce6a
+forte ListaSE.ListaSE@5197848c
+francisco ListaSE.ListaSE@17f052a3
+fulgidos ListaSE.ListaSE@2e0fa5d3
+fulguras ListaSE.ListaSE@5010be6
+futuro ListaSE.ListaSE@685f4c2e
+garrida ListaSE.ListaSE@7daf6ecc
+gentil ListaSE.ListaSE@2e5d6d97
+gigante ListaSE.ListaSE@238e0d81
+gloria ListaSE.ListaSE@31221be2
+grandeza ListaSE.ListaSE@377dca04
+heroico ListaSE.ListaSE@728938a9
+hino ListaSE.ListaSE@21b8d17c
+idolatrada ListaSE.ListaSE@6433a2
+igualdade ListaSE.ListaSE@5910e440
+iluminado ListaSE.ListaSE@6267c3bb
+imagem ListaSE.ListaSE@533ddba
+impavido ListaSE.ListaSE@246b179d
+instante ListaSE.ListaSE@7a07c5b4
+intenso ListaSE.ListaSE@26a1ab54
+ipiranga ListaSE.ListaSE@3d646c37
+joaquim ListaSE.ListaSE@41cf53f9
+justica ListaSE.ListaSE@5a10411
+labaro ListaSE.ListaSE@2ef1e4fa
+letra ListaSE.ListaSE@306a30c7
+liberdade ListaSE.ListaSE@b81eda8
+limpido ListaSE.ListaSE@68de145
+luta ListaSE.ListaSE@27fa135a
+luz ListaSE.ListaSE@46f7f36a
+mae ListaSE.ListaSE@421faab1
+mais ListaSE.ListaSE@2b71fc7e
+manuel ListaSE.ListaSE@5ce65a89
+mar ListaSE.ListaSE@25f38edc
+margens ListaSE.ListaSE@1a86f2f1
+mas ListaSE.ListaSE@3eb07fd3
+mil ListaSE.ListaSE@506c589e
+morte ListaSE.ListaSE@69d0a921
+mundo ListaSE.ListaSE@446cdf90
+musica ListaSE.ListaSE@799f7e29
+nacional ListaSE.ListaSE@4b85612c
+nao ListaSE.ListaSE@277050dc
+natureza ListaSE.ListaSE@5c29bfd
+nem ListaSE.ListaSE@7aec35a
+nesse ListaSE.ListaSE@67424e82
+nossa ListaSE.ListaSE@42110406
+nosso ListaSE.ListaSE@531d72ca
+nossos ListaSE.ListaSE@22d8cfe0
+novo ListaSE.ListaSE@579bb367
+osorio ListaSE.ListaSE@1de0aca6
+ostentas ListaSE.ListaSE@255316f2
+outras ListaSE.ListaSE@41906a77
+ouviram ListaSE.ListaSE@4b9af9a9
+passado ListaSE.ListaSE@5387f9e0
+patria ListaSE.ListaSE@6e5e91e4
+paz ListaSE.ListaSE@2cdf8d8a
+peito ListaSE.ListaSE@30946e09
+pela ListaSE.ListaSE@5cb0d902
+penhor ListaSE.ListaSE@46fbb2c1
+placidas ListaSE.ListaSE@1698c449
+povo ListaSE.ListaSE@5ef04b5
+profundo ListaSE.ListaSE@5f4da5c3
+propria ListaSE.ListaSE@443b7951
+que ListaSE.ListaSE@14514713
+quem ListaSE.ListaSE@69663380
+raio ListaSE.ListaSE@5b37e0d2
+raios ListaSE.ListaSE@4459eb14
+resplandece ListaSE.ListaSE@5a2e4553
+retumbante ListaSE.ListaSE@28c97a5
+risonho ListaSE.ListaSE@6659c656
+risonhoslindos ListaSE.ListaSE@6d5380c2
+salve ListaSE.ListaSE@45ff54e6
+seio ListaSE.ListaSE@2328c243
+seja ListaSE.ListaSE@bebdb06
+silva ListaSE.ListaSE@7a4f0f29
+simbolo ListaSE.ListaSE@45283ce2
+sol ListaSE.ListaSE@2077d4de
+solo ListaSE.ListaSE@7591083d
+som ListaSE.ListaSE@77a567e1
+sonho ListaSE.ListaSE@736e9adb
+tem ListaSE.ListaSE@6d21714c
+teme ListaSE.ListaSE@108c4c35
+terra ListaSE.ListaSE@4ccabbaa
+teu ListaSE.ListaSE@4bf558aa
+teus ListaSE.ListaSE@2d38eb89
+veras ListaSE.ListaSE@5fa7e7ff
+verdelouro ListaSE.ListaSE@4629104a
+vida ListaSE.ListaSE@27f8302d
+vivido ListaSE.ListaSE@4d76f3f8

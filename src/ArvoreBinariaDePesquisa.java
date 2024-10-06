@@ -2,69 +2,98 @@ import java.io.BufferedWriter;
 import java.io.IOException;
 
 public class ArvoreBinariaDePesquisa {
-    // Raiz da árvore
-    Nodo raiz;
-    Rotacoes rotacoes = new Rotacoes();
 
-    // Construtor
+    private Nodo raiz;
+    private Rotacoes rotacoes = new Rotacoes();
+
+
     public ArvoreBinariaDePesquisa() {
         this.raiz = null;
     }
 
-    // Método para inserir uma nova palavra na árvore
     public ArvoreBinariaDePesquisa inserir(String palavra, int linha) {
         this.raiz = inserirRecursivo(this.raiz, palavra, linha);
         return this;
     }
 
-    // Função inserir recursiva
     private Nodo inserirRecursivo(Nodo atual, String palavra, int linha) {
         if (atual == null) {
-            return new Nodo(palavra, linha); // Cria um novo nó se o atual for nulo
+            return new Nodo(palavra, linha); 
         }
 
-        // Comparando a palavra que estamos inserindo com a palavra atual do nó
+
         if (palavra.compareTo(atual.getPalavra()) < 0) {
-            // Inserção no lado esquerdo se a nova palavra for menor
             atual.setEsquerda(inserirRecursivo(atual.getEsquerda(), palavra, linha));
         } else if (palavra.compareTo(atual.getPalavra()) > 0) {
-            // Inserção no lado direito se a nova palavra for maior
             atual.setDireita(inserirRecursivo(atual.getDireita(), palavra, linha));
         } else {
-            // Se a palavra já existe, apenas adicionamos a linha onde foi encontrada
-            atual.adicionarLinha(linha);
+            atual.adicionarLinha(linha); 
         }
 
-        // atualiza o fator de balaceamento
-        atual.calculaBal();
+        atual.calculaBal(); 
 
-        // verifica a necessidade de rotação pelo balanceamento
-        return rotacoes.verificaBalancemaneto(atual);
+
+        return balancearArvore(atual, palavra);
     }
 
-    // percorre a árvore em ordem alfabética e grava no arquivo
+
+    private Nodo balancearArvore(Nodo atual, String palavra) {
+
+        if (atual.getBal() > 1) {
+            if (palavra.compareTo(atual.getDireita().getPalavra()) > 0) { // Caso RR
+                return rotacoes.rotacaoSimplesEsquerda(atual);
+            } else { // Caso RL
+                atual.setDireita(rotacoes.rotacaoSimplesDireita(atual.getDireita()));
+                return rotacoes.rotacaoSimplesEsquerda(atual);
+            }
+        }
+
+        if (atual.getBal() < -1) {
+            if (palavra.compareTo(atual.getEsquerda().getPalavra()) < 0) { // Caso LL
+                return rotacoes.rotacaoSimplesDireita(atual);
+            } else { // Caso LR
+                atual.setEsquerda(rotacoes.rotacaoSimplesEsquerda(atual.getEsquerda()));
+                return rotacoes.rotacaoSimplesDireita(atual);
+            }
+        }
+
+        return atual; 
+    }
+
+
     public void emOrdem(BufferedWriter escritor) throws IOException {
         emOrdemRecursivo(this.raiz, escritor);
     }
 
-    // Função recursiva que percorre a árvore e grava as palavras e as linhas no arquivo
     private void emOrdemRecursivo(Nodo atual, BufferedWriter escritor) throws IOException {
         if (atual != null) {
             emOrdemRecursivo(atual.getEsquerda(), escritor);
             
-            // Escreve a palavra e as linhas no arquivo
-            escritor.write(atual.getPalavra() + " " + atual.getLinhas()); // Aqui chamamos getLinhas()
+
+            escritor.write(atual.getPalavra() + " " + atual.getLinhas());
             escritor.newLine();
-    
-            System.out.println(atual.getPalavra() + " " + atual.getLinhas() + " " + atual.getBal());
-            
+
+            atual.exibirInformacoes(); 
+
             emOrdemRecursivo(atual.getDireita(), escritor);
         }
     }
-    
 
-    // Método para limpar a árvore
+
     public void limpar() {
-        raiz = null; // Anula a raiz, e o garbage collector cuida do restante
+        raiz = null; 
+    }
+
+    private void imprimirArvore(Nodo atual) {
+        if (atual != null) {
+            atual.exibirInformacoes();
+            imprimirArvore(atual.getEsquerda());
+            imprimirArvore(atual.getDireita());
+        }
+    }
+
+    public void inserirEImprimir(String palavra, int linha) {
+        raiz = inserirRecursivo(raiz, palavra, linha);
+        imprimirArvore(raiz);
     }
 }

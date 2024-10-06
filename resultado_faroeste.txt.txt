@@ -1,461 +1,461 @@
-acabar 
-acabo 
-acabou 
-aceitou 
-acertou 
-achar 
-acontece 
-acreditava 
-agora 
-ainda 
-ajudar 225
-ali 194
-alimentar 
-alta 219
-altar 
-amanha 
-amar 
-amigos 
-amor 
-ano 
-antes 
-aos 27
-apareceu 
-apertar 
-aplaudir 
-aprendeu 
-aprendiz 
-aquela 
-aqui 199 197
-aquilo 
-arma 204
-armar 
-armas 
-arrependeu 214
-asa 
-ascendente 
-assistir 
-ate 197 65 58
-atirar 
-atirava 
-atiro 
-atras 
-aumentou 
-bagulho 
-banca 
-bandeirinhas 
-bandido 213 92
-bastardo 
-bebedeira 
-bestificado 
-bisavo 
-boiadeiro 37
-bolivia 139
-bom 
-bomba 
-boto 
-boyzinhos 
-brasilia 223
-brigar 
-brincar 
-brinque 
-burgesia 
-caboclo 
-cafezinho 
-caixinha 
-cameras 
-cansado 
-cao 
-capitao 
-carpinteiro 103
-casa 162 157
-casar 160
-casou 
-catorze 
-causa 
-cegou 
-ceilandia 
-cem 
-central 
-cercania 
-certo 
-chamou 
-chegando 162
-chorou 
-cidade 219 84 75 55 50 47
-cinco 
-circo 
-classe 108
-coisa 
-coisas 61
-colegio 
-colocavam 
-com 224 223 215 212 173 164 145 137 122 120 117 108 105 79 47 36 13
-comecar 73
-comecasse 
-comeco 
-comecou 188 158
-comia 
-como 129 71
-comprou 
-conheceu 
-conhecia 
-conseguiu 
-consequencias 
-contrabando 
-conversa 
-cor 
-coracao 128
-corpo 
-cortar 
-costas 207
-crente 
-crianca 196 113
-cristo 217 212 187 177 167 157 148 144 140 131 100 92 78 65
-crucificado 
-dali 
-danca 
-dancar 
-dancou 
-dava 
-decidiu 198 149 145
-declarava 
-deixou 
-dele 
-demora 
-dentro 
-depois 214
-descobriu 
-descriminacao 
-destemido 
-desvirginava 
-deu 213 204
-deus 
-dez 
-dia 
-diabo 
-diante 
-diferente 
-dinheiro 138 108 66 56 22
-direto 
-disse 
-distrito 
-diz 
-dizendo 
-dizia 155 102 68 62
-diziam 
-dos 144
-doze 
-duas 182
-duelo 179
-ela 203
-elaborou 
-ele 224 220 202 168 165 163 162 145 133 109 103 102 98 88 87 71 70 66 63 62 47 40 21 20 13
-embebedou 
-embora 
-encontrou 
-entao 202 182 168
-entar 
-entendia 
-entrar 
-entrou 
-era 224 218 196 167 155 132 99 92 62 26 18 17 12
-escola 
-escolha 
-escolher 
-escolheu 
-escorpiao 
-espera 
-essa 
-essas 
-esta 
-estava 
-estou 199
-estrelas 
-estupro 
-faco 
-falar 224
-falou 
-falsa 
-faroeste 
-faz 225
-fazenda 
-fazer 
-federal 
-feira 
-festa 
-fez 165 153
-fica 
-fico 
-ficou 144 78 47
-filha 208
-filho 165
-filmava 
-foi 184 163 133 97 88 73 55 38 36 35 33
-frente 
-frequentava 
-funcionava 
-futuro 
-ganhava 
-garganta 
-gastar 
-general 116
-gente 225 194 160
-historia 
-homem 206
-hora 
-horas 182 169
-igreja 
-incerto 
-indecorosa 
-indo 
-inferno 163
-influencia 
-inocentes 
-interessante 
-irmao 127 126
-isso 
-jeremias 206 168 164 152 150
-jesus 
-joao 222 217 215 191 145 110 78 45 38
-jornal 
-junto 
-juntou 
-jurei 
-legiao 
-lembrou 
-lhe 204 38
-libertar 
-linda 99
-local 
-logo 75
-lote 
-lucia 214 202 174 164 159 104
-lugar 135 43 41
-luzes 
-maconheiro 
-madeira 
-mais 72 70
-maluco 
-mandado 
-mao 117
-mar 
-marasmo 
-maria 214 202 174 164 159 104
-mas 155 147 142 122 83 70 66 50
-mato 
-medico 
-medo 94
-meio 
-melhor 119
-menina 175 99
-menininhas 
-mes 
-mesa 
-mesmo 17
-meu 209 175 127 126 124 50
-mil 
-minha 119
-ministro 
-mocinhas 
-morava 
-morrer 
-morreu 215
-morte 
-muita 
-muitas 
-muito 
-mundo 
-nao 222 219 207 207 206 177 157 155 133 131 116 114 114 112 94 70 66 41 30 18
-naquela 
-natal 
-negocio 
-nela 
-nem 
-nenhum 
-nesse 
-neto 
-nisso 
-nome 
-norte 
-noticia 
-noticiario 
-novidade 
-novo 
-num 
-nunca 
-odio 167 122 28
-olha 
-olhada 
-olhar 
-olhos 
-olhou 193
-onde 28
-onibus 
-organizou 
-outro 
-ouvia 
-pablo 204 147 139 137 71
-pai 
-pais 
-palavras 
-para 22
-parceiro 
-passa 
-passagem 37
-pecados 
-pegar 
-peixe 
-pela 163
-pelas 207
-pensava 
-perdao 
-perder 
-perdeu 127 126 124
-peruano 
-planaltina 
-planalto 
-plano 
-planos 
-plantacao 
-playboy 
-pode 
-poder 
-policia 
-por 143 53
-porco 
-porque 
-porta 
-povo 217 192
-pra 225 223 208 184 175 170 168 163 157 104 100 88 82 82 66 55 40 15 15 8
-pras 
-precisando 
-presidente 
-primeira 
-primeiro 
-primo 
-pro 193 167
-professor 26
-prometeu 
-proposta 109
-propria 
-protejo 
-protetor 
-puta 
-quando 223 196 178 97 11 10
-que 225 222 220 217 206 204 197 194 186 179 177 175 173 170 155 150 145 142 138 137 135 131 117 110 102 71 68 68 63 60 50 21 18 17 16 8
-quem 
-queria 224 222 138 137 102 70
-quero 
-quinze 
-rapaz 
-razao 
-reconheceu 
-reformatorio 
-renome 
-repente 
-reporter 
-resposta 110 110
-revendia 
-rezar 
-rico 
-rock 
-roconha 
-rodoviaria 
-roubar 85
-roubo 
-sabado 
-sabendo 
-sabia 218 177 155
-saindo 
-sair 122 119
-salvador 
-salvar 
-sangue 209 190
-santo 218 217 212 187 177 167 157 148 144 140 131 100 92 78 72 65
-saudade 
-segunda 
-sem 208 183 152
-sempre 104
-senhor 119
-sentia 18
-sentindo 
-sentir 210
-ser 103 73
-sete 
-seu 215 204 173 135 132 89 72 68 62 58 56 28 18
-seus 201
-sexta 
-sob 
-sofrer 227
-sol 
-soldado 
-solidao 
-sorrir 
-sorveteiro 
-sou 
-souberam 
-sua 127 126 124 45 31
-suas 
-taguatinga 
-tal 142
-tambem 174
-tanto 28
-televisao 178
-tem 
-temido 
-tempo 160
-tentar 
-ter 223
-terror 28
-teu 
-tinha 138 135 94 37
-tiro 
-tiros 
-toda 
-todas 
-todo 183 153 56
-todos 98 79
-tomar 
-trabalhador 
-trabalhando 
-trabalhar 133
-trabalhava 
-traficante 143
-traficantes 
-traidor 213
-tras 
-trazia 203 139
-trouxe 
-tudo 197
-uma 209 196 147 110 110 109 99 97 72 37
-urbana 
-usar 
-vai 
-vao 128
-veio 
-velhinhas 
-velho 
-vem 210
-ver 159 90
-vergonha 208
-vez 198 163 88
-via 
-viacrucis 
-viagem 
-viajar 
-vida 127 126 124
-violencia 
-viram 
-virar 
-virou 
-visitar 
-viu 178
-viveu 
-vivia 
-voce 206 173 172 127 126 124 105
-voces 90
-voltou 
-vou 170 159 159 129 104
-winchester 212 203
-zona 
+acabar ListaSE.ListaSE@2d8e6db6
+acabo ListaSE.ListaSE@23ab930d
+acabou ListaSE.ListaSE@4534b60d
+aceitou ListaSE.ListaSE@3fa77460
+acertou ListaSE.ListaSE@619a5dff
+achar ListaSE.ListaSE@1ed6993a
+acontece ListaSE.ListaSE@7e32c033
+acreditava ListaSE.ListaSE@7ab2bfe1
+agora ListaSE.ListaSE@497470ed
+ainda ListaSE.ListaSE@63c12fb0
+ajudar ListaSE.ListaSE@b1a58a3
+ali ListaSE.ListaSE@6438a396
+alimentar ListaSE.ListaSE@e2144e4
+alta ListaSE.ListaSE@6477463f
+altar ListaSE.ListaSE@3d71d552
+amanha ListaSE.ListaSE@1cf4f579
+amar ListaSE.ListaSE@18769467
+amigos ListaSE.ListaSE@46ee7fe8
+amor ListaSE.ListaSE@7506e922
+ano ListaSE.ListaSE@4ee285c6
+antes ListaSE.ListaSE@621be5d1
+aos ListaSE.ListaSE@573fd745
+apareceu ListaSE.ListaSE@15327b79
+apertar ListaSE.ListaSE@4f2410ac
+aplaudir ListaSE.ListaSE@722c41f4
+aprendeu ListaSE.ListaSE@5b80350b
+aprendiz ListaSE.ListaSE@5d6f64b1
+aquela ListaSE.ListaSE@32a1bec0
+aqui ListaSE.ListaSE@22927a81
+aquilo ListaSE.ListaSE@78e03bb5
+arma ListaSE.ListaSE@5e8c92f4
+armar ListaSE.ListaSE@61e4705b
+armas ListaSE.ListaSE@50134894
+arrependeu ListaSE.ListaSE@2957fcb0
+asa ListaSE.ListaSE@1376c05c
+ascendente ListaSE.ListaSE@51521cc1
+assistir ListaSE.ListaSE@1b4fb997
+ate ListaSE.ListaSE@deb6432
+atirar ListaSE.ListaSE@28ba21f3
+atirava ListaSE.ListaSE@694f9431
+atiro ListaSE.ListaSE@f2a0b8e
+atras ListaSE.ListaSE@593634ad
+aumentou ListaSE.ListaSE@20fa23c1
+bagulho ListaSE.ListaSE@3581c5f3
+banca ListaSE.ListaSE@6aa8ceb6
+bandeirinhas ListaSE.ListaSE@2530c12
+bandido ListaSE.ListaSE@73c6c3b2
+bastardo ListaSE.ListaSE@48533e64
+bebedeira ListaSE.ListaSE@64a294a6
+bestificado ListaSE.ListaSE@7e0b37bc
+bisavo ListaSE.ListaSE@3b95a09c
+boiadeiro ListaSE.ListaSE@6ae40994
+bolivia ListaSE.ListaSE@1a93a7ca
+bom ListaSE.ListaSE@3d82c5f3
+bomba ListaSE.ListaSE@2b05039f
+boto ListaSE.ListaSE@61e717c2
+boyzinhos ListaSE.ListaSE@66cd51c3
+brasilia ListaSE.ListaSE@4dcbadb4
+brigar ListaSE.ListaSE@4e515669
+brincar ListaSE.ListaSE@17d10166
+brinque ListaSE.ListaSE@1b9e1916
+burgesia ListaSE.ListaSE@ba8a1dc
+caboclo ListaSE.ListaSE@4f8e5cde
+cafezinho ListaSE.ListaSE@504bae78
+caixinha ListaSE.ListaSE@3b764bce
+cameras ListaSE.ListaSE@759ebb3d
+cansado ListaSE.ListaSE@484b61fc
+cao ListaSE.ListaSE@45fe3ee3
+capitao ListaSE.ListaSE@4cdf35a9
+carpinteiro ListaSE.ListaSE@4c98385c
+casa ListaSE.ListaSE@5fcfe4b2
+casar ListaSE.ListaSE@6bf2d08e
+casou ListaSE.ListaSE@5eb5c224
+catorze ListaSE.ListaSE@53e25b76
+causa ListaSE.ListaSE@73a8dfcc
+cegou ListaSE.ListaSE@ea30797
+ceilandia ListaSE.ListaSE@7e774085
+cem ListaSE.ListaSE@3f8f9dd6
+central ListaSE.ListaSE@aec6354
+cercania ListaSE.ListaSE@1c655221
+certo ListaSE.ListaSE@58d25a40
+chamou ListaSE.ListaSE@1b701da1
+chegando ListaSE.ListaSE@726f3b58
+chorou ListaSE.ListaSE@442d9b6e
+cidade ListaSE.ListaSE@ee7d9f1
+cinco ListaSE.ListaSE@15615099
+circo ListaSE.ListaSE@1edf1c96
+classe ListaSE.ListaSE@368102c8
+coisa ListaSE.ListaSE@6996db8
+coisas ListaSE.ListaSE@1963006a
+colegio ListaSE.ListaSE@7fbe847c
+colocavam ListaSE.ListaSE@41975e01
+com ListaSE.ListaSE@c2e1f26
+comecar ListaSE.ListaSE@dcf3e99
+comecasse ListaSE.ListaSE@6d9c638
+comeco ListaSE.ListaSE@7dc5e7b4
+comecou ListaSE.ListaSE@1ee0005
+comia ListaSE.ListaSE@75a1cd57
+como ListaSE.ListaSE@3d012ddd
+comprou ListaSE.ListaSE@6f2b958e
+conheceu ListaSE.ListaSE@1eb44e46
+conhecia ListaSE.ListaSE@6504e3b2
+conseguiu ListaSE.ListaSE@515f550a
+consequencias ListaSE.ListaSE@626b2d4a
+contrabando ListaSE.ListaSE@5e91993f
+conversa ListaSE.ListaSE@1c4af82c
+cor ListaSE.ListaSE@379619aa
+coracao ListaSE.ListaSE@cac736f
+corpo ListaSE.ListaSE@5e265ba4
+cortar ListaSE.ListaSE@156643d4
+costas ListaSE.ListaSE@123a439b
+crente ListaSE.ListaSE@7de26db8
+crianca ListaSE.ListaSE@1175e2db
+cristo ListaSE.ListaSE@36aa7bc2
+crucificado ListaSE.ListaSE@76ccd017
+dali ListaSE.ListaSE@182decdb
+danca ListaSE.ListaSE@26f0a63f
+dancar ListaSE.ListaSE@4361bd48
+dancou ListaSE.ListaSE@53bd815b
+dava ListaSE.ListaSE@2401f4c3
+decidiu ListaSE.ListaSE@7637f22
+declarava ListaSE.ListaSE@4926097b
+deixou ListaSE.ListaSE@762efe5d
+dele ListaSE.ListaSE@5d22bbb7
+demora ListaSE.ListaSE@41a4555e
+dentro ListaSE.ListaSE@3830f1c0
+depois ListaSE.ListaSE@39ed3c8d
+descobriu ListaSE.ListaSE@71dac704
+descriminacao ListaSE.ListaSE@123772c4
+destemido ListaSE.ListaSE@2d363fb3
+desvirginava ListaSE.ListaSE@7d6f77cc
+deu ListaSE.ListaSE@5aaa6d82
+deus ListaSE.ListaSE@73a28541
+dez ListaSE.ListaSE@6f75e721
+dia ListaSE.ListaSE@69222c14
+diabo ListaSE.ListaSE@606d8acf
+diante ListaSE.ListaSE@782830e
+diferente ListaSE.ListaSE@470e2030
+dinheiro ListaSE.ListaSE@3fb4f649
+direto ListaSE.ListaSE@33833882
+disse ListaSE.ListaSE@200a570f
+distrito ListaSE.ListaSE@16b3fc9e
+diz ListaSE.ListaSE@e2d56bf
+dizendo ListaSE.ListaSE@244038d0
+dizia ListaSE.ListaSE@5680a178
+diziam ListaSE.ListaSE@5fdef03a
+dos ListaSE.ListaSE@3b22cdd0
+doze ListaSE.ListaSE@1e81f4dc
+duas ListaSE.ListaSE@4d591d15
+duelo ListaSE.ListaSE@65ae6ba4
+ela ListaSE.ListaSE@48cf768c
+elaborou ListaSE.ListaSE@59f95c5d
+ele ListaSE.ListaSE@5ccd43c2
+embebedou ListaSE.ListaSE@4aa8f0b4
+embora ListaSE.ListaSE@7960847b
+encontrou ListaSE.ListaSE@6a6824be
+entao ListaSE.ListaSE@5c8da962
+entar ListaSE.ListaSE@512ddf17
+entendia ListaSE.ListaSE@2c13da15
+entrar ListaSE.ListaSE@77556fd
+entrou ListaSE.ListaSE@368239c8
+era ListaSE.ListaSE@9e89d68
+escola ListaSE.ListaSE@3b192d32
+escolha ListaSE.ListaSE@16f65612
+escolher ListaSE.ListaSE@311d617d
+escolheu ListaSE.ListaSE@7c53a9eb
+escorpiao ListaSE.ListaSE@ed17bee
+espera ListaSE.ListaSE@2a33fae0
+essa ListaSE.ListaSE@707f7052
+essas ListaSE.ListaSE@11028347
+esta ListaSE.ListaSE@14899482
+estava ListaSE.ListaSE@21588809
+estou ListaSE.ListaSE@2aae9190
+estrelas ListaSE.ListaSE@2f333739
+estupro ListaSE.ListaSE@77468bd9
+faco ListaSE.ListaSE@12bb4df8
+falar ListaSE.ListaSE@4cc77c2e
+falou ListaSE.ListaSE@7a7b0070
+falsa ListaSE.ListaSE@39a054a5
+faroeste ListaSE.ListaSE@71bc1ae4
+faz ListaSE.ListaSE@6ed3ef1
+fazenda ListaSE.ListaSE@2437c6dc
+fazer ListaSE.ListaSE@1f89ab83
+federal ListaSE.ListaSE@e73f9ac
+feira ListaSE.ListaSE@61064425
+festa ListaSE.ListaSE@7b1d7fff
+fez ListaSE.ListaSE@299a06ac
+fica ListaSE.ListaSE@383534aa
+fico ListaSE.ListaSE@6bc168e5
+ficou ListaSE.ListaSE@7b3300e5
+filha ListaSE.ListaSE@2e5c649
+filho ListaSE.ListaSE@136432db
+filmava ListaSE.ListaSE@7382f612
+foi ListaSE.ListaSE@1055e4af
+frente ListaSE.ListaSE@3caeaf62
+frequentava ListaSE.ListaSE@e6ea0c6
+funcionava ListaSE.ListaSE@6a38e57f
+futuro ListaSE.ListaSE@5577140b
+ganhava ListaSE.ListaSE@1c6b6478
+garganta ListaSE.ListaSE@67f89fa3
+gastar ListaSE.ListaSE@4ac68d3e
+general ListaSE.ListaSE@277c0f21
+gente ListaSE.ListaSE@6073f712
+historia ListaSE.ListaSE@43556938
+homem ListaSE.ListaSE@3d04a311
+hora ListaSE.ListaSE@7a46a697
+horas ListaSE.ListaSE@5f205aa
+igreja ListaSE.ListaSE@6d86b085
+incerto ListaSE.ListaSE@75828a0f
+indecorosa ListaSE.ListaSE@3abfe836
+indo ListaSE.ListaSE@2ff5659e
+inferno ListaSE.ListaSE@77afea7d
+influencia ListaSE.ListaSE@161cd475
+inocentes ListaSE.ListaSE@532760d8
+interessante ListaSE.ListaSE@57fa26b7
+irmao ListaSE.ListaSE@5f8ed237
+isso ListaSE.ListaSE@2f410acf
+jeremias ListaSE.ListaSE@47089e5f
+jesus ListaSE.ListaSE@4141d797
+joao ListaSE.ListaSE@68f7aae2
+jornal ListaSE.ListaSE@4f47d241
+junto ListaSE.ListaSE@4c3e4790
+juntou ListaSE.ListaSE@38cccef
+jurei ListaSE.ListaSE@5679c6c6
+legiao ListaSE.ListaSE@27ddd392
+lembrou ListaSE.ListaSE@19e1023e
+lhe ListaSE.ListaSE@7cef4e59
+libertar ListaSE.ListaSE@64b8f8f4
+linda ListaSE.ListaSE@2db0f6b2
+local ListaSE.ListaSE@3cd1f1c8
+logo ListaSE.ListaSE@3a4afd8d
+lote ListaSE.ListaSE@1996cd68
+lucia ListaSE.ListaSE@3339ad8e
+lugar ListaSE.ListaSE@555590
+luzes ListaSE.ListaSE@6d1e7682
+maconheiro ListaSE.ListaSE@424c0bc4
+madeira ListaSE.ListaSE@3c679bde
+mais ListaSE.ListaSE@16b4a017
+maluco ListaSE.ListaSE@8807e25
+mandado ListaSE.ListaSE@2a3046da
+mao ListaSE.ListaSE@2a098129
+mar ListaSE.ListaSE@198e2867
+marasmo ListaSE.ListaSE@12f40c25
+maria ListaSE.ListaSE@3ada9e37
+mas ListaSE.ListaSE@5cbc508c
+mato ListaSE.ListaSE@3419866c
+medico ListaSE.ListaSE@63e31ee
+medo ListaSE.ListaSE@68fb2c38
+meio ListaSE.ListaSE@567d299b
+melhor ListaSE.ListaSE@2eafffde
+menina ListaSE.ListaSE@59690aa4
+menininhas ListaSE.ListaSE@6842775d
+mes ListaSE.ListaSE@574caa3f
+mesa ListaSE.ListaSE@64cee07
+mesmo ListaSE.ListaSE@1761e840
+meu ListaSE.ListaSE@6c629d6e
+mil ListaSE.ListaSE@5ecddf8f
+minha ListaSE.ListaSE@3f102e87
+ministro ListaSE.ListaSE@27abe2cd
+mocinhas ListaSE.ListaSE@5f5a92bb
+morava ListaSE.ListaSE@6fdb1f78
+morrer ListaSE.ListaSE@51016012
+morreu ListaSE.ListaSE@29444d75
+morte ListaSE.ListaSE@2280cdac
+muita ListaSE.ListaSE@1517365b
+muitas ListaSE.ListaSE@4fccd51b
+muito ListaSE.ListaSE@44e81672
+mundo ListaSE.ListaSE@60215eee
+nao ListaSE.ListaSE@4ca8195f
+naquela ListaSE.ListaSE@65e579dc
+natal ListaSE.ListaSE@61baa894
+negocio ListaSE.ListaSE@b065c63
+nela ListaSE.ListaSE@768debd
+nem ListaSE.ListaSE@490d6c15
+nenhum ListaSE.ListaSE@7d4793a8
+nesse ListaSE.ListaSE@449b2d27
+neto ListaSE.ListaSE@5479e3f
+nisso ListaSE.ListaSE@27082746
+nome ListaSE.ListaSE@66133adc
+norte ListaSE.ListaSE@7bfcd12c
+noticia ListaSE.ListaSE@42f30e0a
+noticiario ListaSE.ListaSE@24273305
+novidade ListaSE.ListaSE@5b1d2887
+novo ListaSE.ListaSE@46f5f779
+num ListaSE.ListaSE@1c2c22f3
+nunca ListaSE.ListaSE@18e8568
+odio ListaSE.ListaSE@33e5ccce
+olha ListaSE.ListaSE@5a42bbf4
+olhada ListaSE.ListaSE@270421f5
+olhar ListaSE.ListaSE@52d455b8
+olhos ListaSE.ListaSE@4f4a7090
+olhou ListaSE.ListaSE@18ef96
+onde ListaSE.ListaSE@6956de9
+onibus ListaSE.ListaSE@769c9116
+organizou ListaSE.ListaSE@6aceb1a5
+outro ListaSE.ListaSE@2d6d8735
+ouvia ListaSE.ListaSE@ba4d54
+pablo ListaSE.ListaSE@12bc6874
+pai ListaSE.ListaSE@de0a01f
+pais ListaSE.ListaSE@4c75cab9
+palavras ListaSE.ListaSE@1ef7fe8e
+para ListaSE.ListaSE@6f79caec
+parceiro ListaSE.ListaSE@67117f44
+passa ListaSE.ListaSE@5d3411d
+passagem ListaSE.ListaSE@2471cca7
+pecados ListaSE.ListaSE@5fe5c6f
+pegar ListaSE.ListaSE@6979e8cb
+peixe ListaSE.ListaSE@763d9750
+pela ListaSE.ListaSE@5c0369c4
+pelas ListaSE.ListaSE@2be94b0f
+pensava ListaSE.ListaSE@d70c109
+perdao ListaSE.ListaSE@17ed40e0
+perder ListaSE.ListaSE@50675690
+perdeu ListaSE.ListaSE@31b7dea0
+peruano ListaSE.ListaSE@3ac42916
+planaltina ListaSE.ListaSE@47d384ee
+planalto ListaSE.ListaSE@2d6a9952
+plano ListaSE.ListaSE@22a71081
+planos ListaSE.ListaSE@3930015a
+plantacao ListaSE.ListaSE@629f0666
+playboy ListaSE.ListaSE@1bc6a36e
+pode ListaSE.ListaSE@1ff8b8f
+poder ListaSE.ListaSE@387c703b
+policia ListaSE.ListaSE@224aed64
+por ListaSE.ListaSE@c39f790
+porco ListaSE.ListaSE@71e7a66b
+porque ListaSE.ListaSE@2ac1fdc4
+porta ListaSE.ListaSE@5f150435
+povo ListaSE.ListaSE@1c53fd30
+pra ListaSE.ListaSE@50cbc42f
+pras ListaSE.ListaSE@75412c2f
+precisando ListaSE.ListaSE@282ba1e
+presidente ListaSE.ListaSE@13b6d03
+primeira ListaSE.ListaSE@f5f2bb7
+primeiro ListaSE.ListaSE@73035e27
+primo ListaSE.ListaSE@64c64813
+pro ListaSE.ListaSE@3ecf72fd
+professor ListaSE.ListaSE@483bf400
+prometeu ListaSE.ListaSE@21a06946
+proposta ListaSE.ListaSE@77f03bb1
+propria ListaSE.ListaSE@326de728
+protejo ListaSE.ListaSE@25618e91
+protetor ListaSE.ListaSE@7a92922
+puta ListaSE.ListaSE@71f2a7d5
+quando ListaSE.ListaSE@2cfb4a64
+que ListaSE.ListaSE@5474c6c
+quem ListaSE.ListaSE@4b6995df
+queria ListaSE.ListaSE@2fc14f68
+quero ListaSE.ListaSE@591f989e
+quinze ListaSE.ListaSE@66048bfd
+rapaz ListaSE.ListaSE@61443d8f
+razao ListaSE.ListaSE@445b84c0
+reconheceu ListaSE.ListaSE@61a52fbd
+reformatorio ListaSE.ListaSE@233c0b17
+renome ListaSE.ListaSE@63d4e2ba
+repente ListaSE.ListaSE@7bb11784
+reporter ListaSE.ListaSE@33a10788
+resposta ListaSE.ListaSE@7006c658
+revendia ListaSE.ListaSE@34033bd0
+rezar ListaSE.ListaSE@47fd17e3
+rico ListaSE.ListaSE@7cdbc5d3
+rock ListaSE.ListaSE@3aa9e816
+roconha ListaSE.ListaSE@17d99928
+rodoviaria ListaSE.ListaSE@3834d63f
+roubar ListaSE.ListaSE@1ae369b7
+roubo ListaSE.ListaSE@6fffcba5
+sabado ListaSE.ListaSE@34340fab
+sabendo ListaSE.ListaSE@2aafb23c
+sabia ListaSE.ListaSE@2b80d80f
+saindo ListaSE.ListaSE@3ab39c39
+sair ListaSE.ListaSE@2eee9593
+salvador ListaSE.ListaSE@7907ec20
+salvar ListaSE.ListaSE@546a03af
+sangue ListaSE.ListaSE@721e0f4f
+santo ListaSE.ListaSE@28864e92
+saudade ListaSE.ListaSE@6ea6d14e
+segunda ListaSE.ListaSE@6ad5c04e
+sem ListaSE.ListaSE@6833ce2c
+sempre ListaSE.ListaSE@725bef66
+senhor ListaSE.ListaSE@2aaf7cc2
+sentia ListaSE.ListaSE@6e3c1e69
+sentindo ListaSE.ListaSE@1888ff2c
+sentir ListaSE.ListaSE@35851384
+ser ListaSE.ListaSE@649d209a
+sete ListaSE.ListaSE@6adca536
+seu ListaSE.ListaSE@357246de
+seus ListaSE.ListaSE@28f67ac7
+sexta ListaSE.ListaSE@256216b3
+sob ListaSE.ListaSE@2a18f23c
+sofrer ListaSE.ListaSE@d7b1517
+sol ListaSE.ListaSE@16c0663d
+soldado ListaSE.ListaSE@23223dd8
+solidao ListaSE.ListaSE@4ec6a292
+sorrir ListaSE.ListaSE@1b40d5f0
+sorveteiro ListaSE.ListaSE@ea4a92b
+sou ListaSE.ListaSE@3c5a99da
+souberam ListaSE.ListaSE@47f37ef1
+sua ListaSE.ListaSE@5a01ccaa
+suas ListaSE.ListaSE@71c7db30
+taguatinga ListaSE.ListaSE@19bb089b
+tal ListaSE.ListaSE@4563e9ab
+tambem ListaSE.ListaSE@11531931
+tanto ListaSE.ListaSE@5e025e70
+televisao ListaSE.ListaSE@1fbc7afb
+tem ListaSE.ListaSE@45c8e616
+temido ListaSE.ListaSE@4cdbe50f
+tempo ListaSE.ListaSE@66d33a
+tentar ListaSE.ListaSE@7cf10a6f
+ter ListaSE.ListaSE@7e0babb1
+terror ListaSE.ListaSE@6debcae2
+teu ListaSE.ListaSE@5ba23b66
+tinha ListaSE.ListaSE@2ff4f00f
+tiro ListaSE.ListaSE@c818063
+tiros ListaSE.ListaSE@3f0ee7cb
+toda ListaSE.ListaSE@75bd9247
+todas ListaSE.ListaSE@7d417077
+todo ListaSE.ListaSE@7dc36524
+todos ListaSE.ListaSE@35bbe5e8
+tomar ListaSE.ListaSE@2c8d66b2
+trabalhador ListaSE.ListaSE@5a39699c
+trabalhando ListaSE.ListaSE@3cb5cdba
+trabalhar ListaSE.ListaSE@56cbfb61
+trabalhava ListaSE.ListaSE@1134affc
+traficante ListaSE.ListaSE@d041cf
+traficantes ListaSE.ListaSE@129a8472
+traidor ListaSE.ListaSE@1b0375b3
+tras ListaSE.ListaSE@2f7c7260
+trazia ListaSE.ListaSE@2d209079
+trouxe ListaSE.ListaSE@6bdf28bb
+tudo ListaSE.ListaSE@6b71769e
+uma ListaSE.ListaSE@2752f6e2
+urbana ListaSE.ListaSE@e580929
+usar ListaSE.ListaSE@1cd072a9
+vai ListaSE.ListaSE@7c75222b
+vao ListaSE.ListaSE@4c203ea1
+veio ListaSE.ListaSE@27f674d
+velhinhas ListaSE.ListaSE@1d251891
+velho ListaSE.ListaSE@48140564
+vem ListaSE.ListaSE@58ceff1
+ver ListaSE.ListaSE@7c30a502
+vergonha ListaSE.ListaSE@49e4cb85
+vez ListaSE.ListaSE@2133c8f8
+via ListaSE.ListaSE@43a25848
+viacrucis ListaSE.ListaSE@3ac3fd8b
+viagem ListaSE.ListaSE@5594a1b5
+viajar ListaSE.ListaSE@6a5fc7f7
+vida ListaSE.ListaSE@3b6eb2ec
+violencia ListaSE.ListaSE@1e643faf
+viram ListaSE.ListaSE@6e8dacdf
+virar ListaSE.ListaSE@7a79be86
+virou ListaSE.ListaSE@34ce8af7
+visitar ListaSE.ListaSE@b684286
+viu ListaSE.ListaSE@880ec60
+viveu ListaSE.ListaSE@3f3afe78
+vivia ListaSE.ListaSE@7f63425a
+voce ListaSE.ListaSE@36d64342
+voces ListaSE.ListaSE@39ba5a14
+voltou ListaSE.ListaSE@511baa65
+vou ListaSE.ListaSE@340f438e
+winchester ListaSE.ListaSE@30c7da1e
+zona ListaSE.ListaSE@5b464ce8

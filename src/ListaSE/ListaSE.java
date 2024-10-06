@@ -1,7 +1,7 @@
 package ListaSE;
 
 public class ListaSE {
-    private No inicio;
+    private No inicio; // Nó inicial da lista
     private int tamanho;
 
     public ListaSE() {
@@ -16,15 +16,33 @@ public class ListaSE {
         tamanho++;
     }
 
-    // Método para representar a lista de linhas como uma string
-    @Override
-    public String toString() {
-        StringBuilder sb = new StringBuilder();
+    public int obterElemento(int index) {
+        if (index < 0 || index >= tamanho) {
+            throw new IndexOutOfBoundsException("ERRO!! Elemento não existe");
+        }
+        No atual = inicio;
+        for (int i = 0; i < index; i++) {
+            atual = atual.getProx(); 
+        }
+        return atual.getValor(); 
+    }
+
+    public int tamanho() {
+        return tamanho; 
+    }
+
+    public boolean isEmpty() {
+        return tamanho == 0; 
+    }
+
+    public boolean contemElemento(int valor) {
         No atual = inicio;
         while (atual != null) {
-            sb.append(atual.getValor()).append(" "); // Adiciona o valor do nó
-            atual = atual.getProx(); // Move para o próximo nó
+            if (atual.getValor() == valor) {
+                return true; 
+            }
+            atual = atual.getProx(); 
         }
-        return sb.toString().trim(); // Retorna a representação da lista sem espaços extras
+        return false; 
     }
 }

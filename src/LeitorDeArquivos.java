@@ -11,7 +11,6 @@ public class LeitorDeArquivos {
         this.arvore = arvore;
     }
 
-    // Método para processar os arquivos
     public void processarArquivos() {
         File diretorio = new File(caminho); // Diretório dos arquivos
         File[] arquivos = diretorio.listFiles(); // Lista os arquivos no diretório
@@ -22,20 +21,16 @@ public class LeitorDeArquivos {
                 System.out.println("=========================================\n");
                 System.out.println("Arquivo " + file.getName() + "\n");
 
-                // Cria um arquivo de saída específico para cada arquivo processado
                 File arquivoResultado = new File("resultado_" + file.getName() + ".txt");
 
-                // Processa cada arquivo individualmente
                 processarArquivo(file, arquivoResultado);
 
-                // Escrever as palavras em ordem alfabética no arquivo de saída
                 try (BufferedWriter escritor = new BufferedWriter(new FileWriter(arquivoResultado, true))) {
-                    arvore.emOrdem(escritor); // Aqui a árvore escreve no arquivo
+                    arvore.emOrdem(escritor); 
                 } catch (IOException e) {
                     e.printStackTrace();
                 }
 
-                // Limpar a árvore para o próximo arquivo
                 arvore.limpar();
             }
         } else {
@@ -43,7 +38,6 @@ public class LeitorDeArquivos {
         }
     }
 
-    // Método para processar um único arquivo
     private void processarArquivo(File file, File arquivoResultado) {
         try (BufferedReader leitor = new BufferedReader(new FileReader(file));
             BufferedWriter escritor = new BufferedWriter(new FileWriter(arquivoResultado))) {
@@ -51,11 +45,10 @@ public class LeitorDeArquivos {
             int numeroLinha = 1;
 
             while ((linha = leitor.readLine()) != null) {
-                String[] palavras = formatarLinha(linha); // Formatar a linha e dividir em palavras
+                String[] palavras = formatarLinha(linha); 
 
-                // Inserir as palavras na árvore
                 for (String palavra : palavras) {
-                    if (palavra.length() >= 3 && palavra.length() <= 20) { // Verificação de tamanho
+                    if (palavra.length() >= 3 && palavra.length() <= 20) { 
                         arvore.inserir(palavra, numeroLinha);
                     }
                 }
@@ -67,7 +60,6 @@ public class LeitorDeArquivos {
         }
     }
 
-    // Método para formatar a linha
     private String[] formatarLinha(String linha) {
         String lowercase = linha.toLowerCase();
         String normalized = Normalizer.normalize(lowercase, Normalizer.Form.NFD); // Normaliza
