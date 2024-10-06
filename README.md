@@ -22,7 +22,7 @@ Raphael de Sousa Lima, Délio Henrique França de Lacerda: Esboçou todos os met
 
 Raphael Abade Rodrigues: criou a classe Rotacoes e LeitorDeArquivos, adicionou gets e sets para encapsulamento na classe Nodo
 
-João Pedro Silva Santos: Auxiliou no desenvolvimento e correção de erros na classe de rotações, inserçãod de elementos e impressão.
+João Pedro Silva Santos: Auxiliou no desenvolvimento e correção de erros na classe de rotações, inserção de elementos e impressão.
 
 Pedro Henrique de Ávila: 
 
