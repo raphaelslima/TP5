@@ -26,7 +26,7 @@ João Pedro Silva Santos: Auxiliou no desenvolvimento e correção de erros na c
 
 Pedro Henrique de Ávila: 
 
-Fabian Bernardes e Nathan Siqueira:Exclusão do ArrayList e criação da Lista encadeada que agora fica responsável por armazenar as linhas em que as palavras aparecem e sua implementação como atributo da classe Nó.
+Fabian Bernardes e Nathan Siqueira: Exclusão do ArrayList e criação da Lista encadeada que agora fica responsável por armazenar as linhas em que as palavras aparecem e sua implementação como atributo da classe Nó.
 
 
 ## Classes: 
