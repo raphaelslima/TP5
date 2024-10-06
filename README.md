@@ -16,13 +16,11 @@ João Pedro Silva Santos
 
 ## Tarefas:
 
-Délio Henrique França de Lacerda
-
 Nathan Siqueira:
 
 Pedro Henrique de Ávila Vasconcelos: 
 
-Raphael de Sousa Lima: Esboçou todos os metódos, e criou o metódo calcular altura e balanceamento.
+Raphael de Sousa Lima, Délio Henrique França de Lacerda: Esboçou todos os metódos, e criou o metódo calcular altura e balanceamento.
 
 Raphael Abade Rodrigues: criou a classe Rotacoes e LeitorDeArquivos, adicionou gets e sets para encapsulamento na classe Nodo
 
