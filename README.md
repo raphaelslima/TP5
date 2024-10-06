@@ -26,7 +26,7 @@ Raphael de Sousa Lima: Esboçou todos os metódos, e criou o metódo calcular al
 
 Raphael Abade Rodrigues: criou a classe Rotacoes e LeitorDeArquivos, adicionou gets e sets para encapsulamento na classe Nodo
 
-João Pedro Silva Santos: 
+João Pedro Silva Santos: Auxiliou no desenvolvimento e correção de erros na classe de rotações.
 
 Pedro Henrique de Ávila: 
 
